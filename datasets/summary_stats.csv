@@ -1,0 +1,3 @@
+energy_type,TotalkWh_mean,TotalkWh_median,TotalkWh_min,TotalkWh_max,TotalTherms_mean,TotalTherms_median,TotalTherms_min,TotalTherms_max
+electricity,2721159.01,1591066.0,3885.0,16151489.0,0.0,0.0,0.0,0.0
+gas,0.0,0.0,0.0,0.0,278818.54,241697.0,1247.0,1208569.0
